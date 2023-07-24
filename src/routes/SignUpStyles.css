@@ -1,0 +1,26 @@
+.Sign{
+    display: block;
+    padding-bottom: 0 .1rem.2rem;
+    border-style:double;
+    margin: 2rem;
+   
+}
+
+.Sign:hover{
+    color: white;
+    background-color: black;
+}
+
+.Log{
+    display: block;
+    padding-bottom: 0 .1rem.2rem;
+    border-style:double;
+    margin: auto;
+   
+}
+
+.Log:hover{
+    color: white;
+    background-color: black;
+}
+
