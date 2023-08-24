@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Truthtour/static/css/main.fb76a571.css",
-    "main.js": "/Truthtour/static/js/main.412de18b.js",
-    "static/media/contact.jpg": "/Truthtour/static/media/contact.f4168f97f16c0601752a.jpg",
-    "static/media/lekki1.jpg": "/Truthtour/static/media/lekki1.5bbdfc410e2c0aef9704.jpg",
-    "static/media/shrine.jpg": "/Truthtour/static/media/shrine.89ffdd1b1c82d47f42c6.jpg",
-    "static/media/Rock1.jpg": "/Truthtour/static/media/Rock1.ac03e6872fc074561554.jpg",
-    "static/media/agodi1.jpg": "/Truthtour/static/media/agodi1.c281410063852d3590c5.jpg",
-    "static/media/Eleko.jpg": "/Truthtour/static/media/Eleko.d8288e524a3776ecd084.jpg",
-    "static/media/olumo.jpg": "/Truthtour/static/media/olumo.d86f1fd6981967f06aee.jpg",
-    "static/media/agodi2.jpg": "/Truthtour/static/media/agodi2.cde46d6157685a6b02d5.jpg",
-    "static/media/obu4.jpg": "/Truthtour/static/media/obu4.e840113158d0b60c95d0.jpg",
-    "static/media/kaj1.jpg": "/Truthtour/static/media/kaj1.187673e0c11d4ce56c79.jpg",
-    "static/media/obu3.jpg": "/Truthtour/static/media/obu3.dd7e246a789e06f50303.jpg",
-    "index.html": "/Truthtour/index.html",
-    "main.fb76a571.css.map": "/Truthtour/static/css/main.fb76a571.css.map",
-    "main.412de18b.js.map": "/Truthtour/static/js/main.412de18b.js.map"
+    "main.css": "/Adeyiolabidak/Truth-Travel-Agency.git/static/css/main.fb76a571.css",
+    "main.js": "/Adeyiolabidak/Truth-Travel-Agency.git/static/js/main.070e85e3.js",
+    "static/media/contact.jpg": "/Adeyiolabidak/Truth-Travel-Agency.git/static/media/contact.f4168f97f16c0601752a.jpg",
+    "static/media/lekki1.jpg": "/Adeyiolabidak/Truth-Travel-Agency.git/static/media/lekki1.5bbdfc410e2c0aef9704.jpg",
+    "static/media/shrine.jpg": "/Adeyiolabidak/Truth-Travel-Agency.git/static/media/shrine.89ffdd1b1c82d47f42c6.jpg",
+    "static/media/Rock1.jpg": "/Adeyiolabidak/Truth-Travel-Agency.git/static/media/Rock1.ac03e6872fc074561554.jpg",
+    "static/media/agodi1.jpg": "/Adeyiolabidak/Truth-Travel-Agency.git/static/media/agodi1.c281410063852d3590c5.jpg",
+    "static/media/Eleko.jpg": "/Adeyiolabidak/Truth-Travel-Agency.git/static/media/Eleko.d8288e524a3776ecd084.jpg",
+    "static/media/olumo.jpg": "/Adeyiolabidak/Truth-Travel-Agency.git/static/media/olumo.d86f1fd6981967f06aee.jpg",
+    "static/media/agodi2.jpg": "/Adeyiolabidak/Truth-Travel-Agency.git/static/media/agodi2.cde46d6157685a6b02d5.jpg",
+    "static/media/obu4.jpg": "/Adeyiolabidak/Truth-Travel-Agency.git/static/media/obu4.e840113158d0b60c95d0.jpg",
+    "static/media/kaj1.jpg": "/Adeyiolabidak/Truth-Travel-Agency.git/static/media/kaj1.187673e0c11d4ce56c79.jpg",
+    "static/media/obu3.jpg": "/Adeyiolabidak/Truth-Travel-Agency.git/static/media/obu3.dd7e246a789e06f50303.jpg",
+    "index.html": "/Adeyiolabidak/Truth-Travel-Agency.git/index.html",
+    "main.fb76a571.css.map": "/Adeyiolabidak/Truth-Travel-Agency.git/static/css/main.fb76a571.css.map",
+    "main.070e85e3.js.map": "/Adeyiolabidak/Truth-Travel-Agency.git/static/js/main.070e85e3.js.map"
   },
   "entrypoints": [
     "static/css/main.fb76a571.css",
-    "static/js/main.412de18b.js"
+    "static/js/main.070e85e3.js"
   ]
 }
